@@ -2,7 +2,7 @@
 
 ## 💻 Descrição
 
-Uma simples calculadora Nela é possível realizar as quatro operações básicas(adição, subtração, multiplicação e divisão) e também o cálculo de porcentagens.
+Uma simples calculadora. Nela é possível realizar as quatro operações básicas(adição, subtração, multiplicação e divisão) e também o cálculo de porcentagens.
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
